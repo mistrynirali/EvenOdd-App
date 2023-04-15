@@ -1,0 +1,28 @@
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.card-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  border-radius: 15px;
+  padding: 20px;
+  margin-top: 80px;
+  height: 555px;
+  width: 555px;
+}
+.button {
+  border-radius: 5px;
+  height: 30px;
+  width: 100px;
+}
+.note {
+  font-size: 12px;
+  color: #334155;
+  font-family: 'Roboto';
+}
